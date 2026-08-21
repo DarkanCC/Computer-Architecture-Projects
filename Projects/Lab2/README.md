@@ -1,0 +1,2 @@
+# word-search
+A program created on Assembler language, which purpose is to search words given by the user on a wordsearch previously provided. This is a project for the subject "Computer Architecture". To execute this program, you must run the MARS IDE provided on this repo.

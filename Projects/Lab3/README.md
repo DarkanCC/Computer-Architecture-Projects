@@ -1,0 +1,2 @@
+# monocycle-cpu
+An implementation on Logisim and MIPS to create a working monocycle CPU for the subject "Computer Architecture". To execute this program, you must download and run [Logisim Evolution 3.7.2](https://github.com/logisim-evolution/logisim-evolution/releases#release-v3.7.2), and also the MARS IDE provided on this repo.
