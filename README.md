@@ -6,17 +6,6 @@ The projects span fundamental digital logic synthesis, low-level MIPS assembly p
 
 ---
 
-## 📜 Table of Contents
-1. [Repository Overview](#repository-overview)
-2. [Lab 1: Sequential Digital Circuit & Bit Sequence Detector](#lab-1-sequential-digital-circuit--bit-sequence-detector)
-3. [Lab 2: MIPS Assembly Word Search Solver](#lab-2-mips-assembly-word-search-solver)
-4. [Lab 3: Extended Single-Cycle MIPS32 Processor Design](#lab-3-extended-single-cycle-mips32-processor-design)
-5. [Tools & Technologies](#tools--technologies)
-6. [Repository Structure](#repository-structure)
-7. [Authors & Acknowledgments](#authors--acknowledgments)
-
----
-
 ## 📌 Repository Overview
 
 This collection showcases a bottom-up journey through computer systems engineering:
